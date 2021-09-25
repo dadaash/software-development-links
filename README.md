@@ -43,3 +43,6 @@ This is a library use to gather in one location reference links like youtube cha
 * [Compiler Explorer](https://godbolt.org)
 * [cpp insights](https://cppinsights.io)
 * [C gibberish <-> English](https://cdecl.org)
+
+# Libraries
+* [GNU Scientific Library (GSL)](https://www.gnu.org/software/gsl/doc/html/index.html)
